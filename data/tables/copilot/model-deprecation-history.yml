@@ -1,6 +1,9 @@
 Create a YAML structure that will allow me to generate a table that looks like: 
 [describe your table headers, rows, and columns OR attach an example]
 
+See data/tables/supported-code-languages.yml for an example.Create a YAML structure that will allow me to generate a table that looks like: 
+[describe your table headers, rows, and columns OR attach an example]
+
 See data/tables/supported-code-languages.yml for an example.# Please keep this list sorted in the following order:
 # 1. By retirement_date, from newest to oldest
 # 2. Within the same date, alphabetically by name
